@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Moviegram</string>
+    <string name="title_movie">Movies</string>
+    <string name="title_tvshow">TV Show</string>
+    <string name="title_favorite">Favorite</string>
+
+    <string name="now_playing_movie">Now Playing Movies</string>
+    <string name="upcoming_movie">Upcoming Movies</string>
+    <string name="top_rated_movie">Top Rated Movies</string>
+
+    <string name="img_dsc_list_popular_movie">Popular Movies</string>
+    <string name="img_dsc_now_playing_right_icon">Detail Information</string>
+    <string name="img_desc_back_btn">Back Button</string>
+
+    <string name="title_now_playing_movie_fragment">Now Playing Movies</string>
+    <string name="title_upcoming_movie_fragment">Upcoming Movies</string>
+    <string name="title_top_rated_fragment">Top Rated Movies</string>
+    <string name="img_desc_detail_poster">Detail Poster</string>
+
+    <string name="btn_add_favorite">+ Add to Favorite</string>
+    <string name="btn_remove_favorite">Remove from Favorite</string>
+    <string name="data_empty">data empty</string>
+    <string name="order_by_title">Order by title</string>
+    <string name="random">Random Order</string>
+    <string name="history">History</string>
+    <string name="setting">Setting</string>
+    <string name="reminder_notification">Reminder Notification</string>
+    <string name="download_image_icon">Download Image Icon</string>
+</resources>

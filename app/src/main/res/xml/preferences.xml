@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:iconSpaceReserved="false">
+
+    <SwitchPreference
+        android:layout_width="match_parent"
+        android:defaultValue="false"
+        android:key="reminder_switch"
+        android:summary="We will remind you every day at 9 PM"
+        android:title="Reminder Notification"
+        app:allowDividerBelow="true"
+        app:iconSpaceReserved="false" />
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="check_box_history"
+        android:title="History"
+        android:summary="We will save your history every movie or tv show has been display"
+        app:iconSpaceReserved="false" />
+
+</PreferenceScreen>
